@@ -1,16 +1,18 @@
-### Hi there 👋
+### ¡Hola! Soy Irina Palosz 👋
 
 <!--
 **IrinaPalosz/IrinaPalosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 😄 Me dicen Iri!💃💗
+
+- 📚 Actualmente estoy estudiando en Digital House Programación Web FullStack 💻
+
+- 🙋 Estoy aprendiendo asi que cualquier comentario y ayuda serian genial para mi 👍
+
+- 📧 Pueden contactarme a mi mail irinapalosz@outlook.com
+
+Graciaas!
+
+BYE👋
+
+
