@@ -5,7 +5,7 @@
 -->
 - 😄 Me dicen Iri!💃💗
 
-- 📚 Actualmente estoy estudiando en Digital House Programación Web FullStack 💻
+- 📚 Actualmente estoy estudiando Programación Web Full Stack en Digital House 💻
 
 - 🙋 Estoy aprendiendo asi que cualquier comentario y ayuda serian genial para mi 👍
 
