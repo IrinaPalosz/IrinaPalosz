@@ -4,7 +4,7 @@
 **IrinaPalosz/IrinaPalosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
--Nueva Programadora Web Full Stack💻
+Programadora Web Full Stack💻
 
 - 📧 Pueden contactarme:
 - Email: irinapalosz@gmail.com
